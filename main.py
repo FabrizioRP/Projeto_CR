@@ -7,17 +7,31 @@ import igraph as ig
 
 # Tudo por enquanto é provisorio e é só pra testar
 
-bip = []
+a = pd.read_csv("test.csv") # Lê o csv do grafo
 
-for i in range(100000): 
-    bip+= [i%2]
+g = nx.Graph() # Cria o objeto grafo
 
-print(bip)
+# contando os RAs unicos
+#cout = []
+#c = 0
 
-a = pd.read_csv("test.csv")
+#for i in range((int)(a.size / 2)):
+#    if a.loc[i][1] not in cout:
+#        c+=1
+#        cout+= [a.loc[i][1]]
 
-g = ig.Graph.DataFrame(edges = a, use_vids = False, directed = False)
+#print(c)
 
-ig.plot(g, target='myfile.pdf', vertex_size = 3, layout = g.layout("kk"))
+# Cria os vertices dos RAs no grafo
+for i in range((int)(a.size / 2)):
+    g.add_node(a.loc[i][0], bipartite = 0)
+    g.add_node(a.loc[i][1], bipartite = 1)
+    g.add_edge(a.loc[i][0], a.loc[i][1])
 
-print(g.is_bipartite())
+# nx.draw(g)
+
+G = ig.Graph.from_networkx(g)
+fig, ax = plt.subplots()
+ig.plot(G, target=ax, vertex_size=3, layout = G.layout("kk"))
+plt.show()
+print(g)
