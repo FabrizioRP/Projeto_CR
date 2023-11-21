@@ -5,6 +5,8 @@ import numpy as np
 import math as mt
 import igraph as ig
 
+# Tudo por enquanto é provisorio e é só pra testar
+
 bip = []
 
 for i in range(100000): 
