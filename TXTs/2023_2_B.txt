@@ -1,73 +1,3 @@
-TURMAS INGRESSANTES 01/06/2023
-TÉRREO
-2º ANDAR
-1º ANDAR
-2º ANDAR
-3º ANDAR
-TÉRREO Embasamento
-1º ANDAR Embasamento
-2º ANDAR Embasamento
-Torre 1 (CECS)
-Torre 2 (CMCC)
-Torre 3 (CCNH)
-Torre 1 (CECS)
-Torre 2 (CMCC)
-Torre 3 (CCNH)
-Torre 1 (CECS)
-Torre 3 (CCNH)
-Laboratórios Secos: 501-1, 502-1, 503-1, 504-1 e 505-1 
-Laboratórios Úmidos: 501-3, 502-3, 503-3, 505-3, 505-3, 506-3, 507-3 e 508-3
-BLOCO A
-Salas de aula: 301-1, S 302-1, S 303-1 , S 304-1 , S 305-1 , S 306-1 , S 307-1 , S 308-1 , S 309-1 , S 310-1 , S 311-1 e S 312-1
-Salas de aula: 301-2, S 302-2, S 303-2 , S 304-2 , S 305-2 , S 306-2 , S 307-2 , S 308-2 , S 309-2, S 310-2, S 311-2 e S 312-2
-Salas de aula: 301-3, S 302-3, S 303-3 , S 304-3 , S 305-3 , S 306-3 , S 307-3 , S 308-3 , S 309-3, S 310-3, S 311-3 e S 312-3
-Laboratórios Secos: 401-1, 402-1, 403-1, 404-1, 405-1, 406-1, 407-1, 408-1 e 410-1
-Laboratórios Secos: 401-2 e 406-2
-Laboratórios Secos: 401-3 e 403-3
-A1-L306-SB - Laboratório Didático Seco
-BLOCO BETA
-BLOCO ALFA II
-BLOCO B
-B-A001-SB - Auditório
-B-A002-SB - Auditório
-B-A003-SB - Auditório
-B-A004-SB - Auditório
-Salas de aula A2-S101-SB, A2-S102-SB, A2-S110-SB, A2-S201-SB, A2-S204-SB, A2-S205-SB
-Salas de aula A2-S101-SB, A2-S102-SB, A2-S110-SB, A2-S201-SB, A2-S204-SB, A2-S205-SB
-A1-L102-SB - Laboratório de Informática
-Salas de Aula - A1-S101-SB, A1-S102-SB, A1-S103-SB, A1-S104-SB, A1-S105-SB e A1-S106-SB
-Salas de Aula -A1-S201-SB, A1-S202-SB, A1-S203-SB, A1-S204-SB, A1-S205-SB e A1-S206-SB
-A1-L301-SB - Laboratório Didático Úmido
-A1-L302-SB - Laboratório Didático Úmido
-A1-L303-SB - Laboratório Didático Úmido
-5º ANDAR
-Prezados Alunos/ Docentes
-Segue a relação de disciplinas do 2º Quadrimestre de 2023 com suas respectivas turmas, horários, professores, salas, e laboratórios.
-O (A) discente deverá seguir rigorosamente as informações contidas na referida relação, pois a Pró-Reitoria de Graduação não efetuará mudanças de Horários, Turmas, Professores, Salas e Laboratórios.
- Caso o aluno efetue qualquer alteração sem a autorização da Pró-Reitoria de Graduação, deve estar ciente de que poderá não ter seus conceitos e freqüência validados.
-SÃO BERNARDO DO CAMPO
-BLOCO ALFA I
-A1-L001-SB - Laboratório de Informática
-4º ANDAR
-3º ANDAR
- Salas de Cartografia: 002-0 e 004-0
-Salas de aula: A 101-0, A 102-0, A 103-0 e A 104-0 
-Salas de aula: S 201-0, S 202-0, S 203-0, S 204-0, S 205-0, S 206-0, S 207-0, S 208-0, S 209-0, S 210-0, S 211-0, S 212-0, S 213-0 e S 214-0
-Laboratórios Secos: L701, L702, L705 e L706
-Laboratórios Úmidos: L601, L602, L605 e L606.
-Laboratórios de Informática: L501, L502, L503, L504, L505, L506, L603 e L703
-Salas de aula: 501, 502, 503, 504, L604 e L704
-Neste bloco o 1º número na nomenclatura da sala/lab indica o piso, e o dígito mostra a torre onde se localiza. Ex.: a sala 302-1 fica no 3º andar da torre 1, quando o dígito for zero, significa que a sala/lab está em um piso comum a todas as torres (embasamento).
-SANTO ANDRÉ
-Salas de Aula - A2-S302-SB, A2-S303-SB, A2-S304-SB, A2-S307-SB, A2-S308-SB, A2-S309-SB, A2-S311-SB, A2-3212-SB, B-A002-SB, B-A003-SB, B-A004-SB, S002, S003
-TÉRREO
-3º ANDAR A1-L304-SB - Laboratório Didático Seco
-A1-L305-SB - Laboratório Didático Seco
-1º ANDAR
-A1-L101-SB - Laboratório de Informática
-1 / 463
-TURMAS INGRESSANTES 01/06/2023
-RA NOME COD. TURMA TURMA HORARIO TEORIA HORARIO PRÁTICA DOCENTE TEORIA DOCENTE PRÁTICA CURSO_CAMPUS_TURNO
 11202320173 SARAH MARIA RODRIGUES DA CRUZ DC4BCS0001-15SA
 Base Experimental das Ciências Naturais 
 C4-diurno (Santo André) 0
@@ -69667,25 +69597,6 @@ MARIA CRISTINA CARLAN
 DA SILVA
 0
 BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
-BERNARDO DO CAMPO - NOTURNO
-11202321087 ISAQUE LEANDRO DOS SANTOS NB1BIR0603-15SB
-Ciência, Tecnologia e Sociedade B1-
-noturno (São Bernardo do Campo)
-terça das 21:00 às 23:00, sala A1-S203-SB, 
-semanal , quinta das 19:00 às 21:00, sala A1-
-S203-SB, quinzenal I
-0 LUCIANO AVALLONE BUENO 0
-BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
-BERNARDO DO CAMPO - NOTURNO
-11202321087 ISAQUE LEANDRO DOS SANTOS - CANC #N/D #N/D #N/D #N/D #N/D BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
-BERNARDO DO CAMPO - NOTURNO
-11202321087 ISAQUE LEANDRO DOS SANTOS - CANC #N/D #N/D #N/D #N/D #N/D BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
-BERNARDO DO CAMPO - NOTURNO
-11202321087 ISAQUE LEANDRO DOS SANTOS - CANC #N/D #N/D #N/D #N/D #N/D BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
-BERNARDO DO CAMPO - NOTURNO
-11202321087 ISAQUE LEANDRO DOS SANTOS - CANC #N/D #N/D #N/D #N/D #N/D BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
-BERNARDO DO CAMPO - NOTURNO
-11202321087 ISAQUE LEANDRO DOS SANTOS - CANC #N/D #N/D #N/D #N/D #N/D BACHARELADO EM CIÊNCIA E TECNOLOGIA - SÃO 
 BERNARDO DO CAMPO - NOTURNO
 11202321089
 EUDES FERNANDO RAINEE DE OLIVEIRA 
